@@ -1,0 +1,1 @@
+Sendo 15 o mmc entre 3 e 5 podemos dizer que um número é multiplo de 3 e 5 ao mesmo tempo se também for multiplo de 15.
